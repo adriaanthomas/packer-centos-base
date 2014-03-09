@@ -40,7 +40,8 @@
       "script/vagrant.sh",
       "script/sshd.sh",
       "script/vmtools.sh",
-      "script/provisioner.sh",
+      "script/chef.sh",
+      "script/puppet.sh",
       "script/cleanup.sh",
       "script/zerodisk.sh"
     ]
